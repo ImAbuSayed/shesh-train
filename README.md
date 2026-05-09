@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shesh-train/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Shesh Train](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shesh-train/) |
+| **Get License** | [License this song: Shesh Train](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shesh-train/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই রাতের বুকে তুমি মোহমায়া,
+> নিঃশব্দে হেঁটে যাও ফেলে দীর্ঘ ছায়া।
+> অন্ধকারে মিশে থাকে তোমার মাতাল ঘ্রাণ,
+> এই বুকে ঝড় তুলে কেড়ে নাও আমার প্রাণ।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
