@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shesh-train/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Shesh Train](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shesh-train/) |
+| **Get License** | [Obtain a Music License for Shesh Train](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shesh-train/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7acb9316048ad525ad060f8b3da7a547b5c5c7f44c347af117af5a4dd4a10d67` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

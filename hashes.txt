@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shesh Train
+
+This log tracks the cryptographic history and versioning for the song **Shesh Train** (shesh-train).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T05:54:55.870543 | `v1` | `7acb9316048ad525ad060f8b3da7a547b5c5c7f44c347af117af5a4dd4a10d67` | `6dbd087ffc5489ba2deb687e65dceb48b6d1149bf4d1cb5551a7d2667d0e4963` | `2026-05-10_shesh-train-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
